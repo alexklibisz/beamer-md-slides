@@ -6,6 +6,7 @@ Use this as a starting point when you get tired of Powerpoint but also don't wan
 
 I'll eventually add a nicer template.
 
-### Installing Pandoc
+## Resources
 
-See: http://pandoc.org/installing.html
+- Documentation for Markdown with Pandoc: http://rmarkdown.rstudio.com/beamer_presentation_format.html
+- Installing Pandoc: http://pandoc.org/installing.html
